@@ -1616,7 +1616,7 @@ MonoBehaviour:
   chatText: {fileID: 149986569}
   enviarButton: {fileID: 523219546}
   unityChanAnimator: {fileID: 1084184649}
-  apiKey: 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
+  apiKey: 
 --- !u!4 &1304700755
 Transform:
   m_ObjectHideFlags: 0
