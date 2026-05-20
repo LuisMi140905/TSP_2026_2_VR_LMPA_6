@@ -1,6 +1,8 @@
 fileFormatVersion: 2
-guid: 618ed4c34f378d844bd846e892df8706
-TextScriptImporter:
+guid: ca383467ed1a5b245b706a1061aa26c3
+labels:
+- gpsr
+DefaultImporter:
   externalObjects: {}
   userData: 
   assetBundleName: 
